@@ -1,0 +1,45 @@
+# Python 環境與快取
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# 執行階段產物與 PID
+daemon.pid
+*.png
+*.jpg
+*.jpeg
+*.xlsx
+*.csv
+
+# 保留目錄結構，忽略動態內容
+enterprise_workspace/02_tasks/*
+!enterprise_workspace/02_tasks/.gitkeep
+!enterprise_workspace/02_tasks/task_backlog.json
+!enterprise_workspace/02_tasks/active_context.md
+
+enterprise_workspace/03_delivery/source_code/*
+!enterprise_workspace/03_delivery/source_code/.gitkeep
+enterprise_workspace/03_delivery/reports/*
+!enterprise_workspace/03_delivery/reports/.gitkeep
+enterprise_workspace/03_delivery/spreadsheets/*
+!enterprise_workspace/03_delivery/spreadsheets/.gitkeep
+enterprise_workspace/03_delivery/projects/*
+!enterprise_workspace/03_delivery/projects/.gitkeep
+
+enterprise_workspace/uploads/*
+!enterprise_workspace/uploads/.gitkeep
+
+enterprise_workspace/04_history/failure_audits/*
+!enterprise_workspace/04_history/failure_audits/.gitkeep
+
+# 排除編輯器本地歷史
+.history/
+codebase_dump.txt
+
+# 編輯器設定
+.vscode/
+.idea/
+*.swp

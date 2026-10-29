@@ -1,0 +1,10 @@
+httpx
+rich
+psutil
+gitpython
+fastapi
+uvicorn
+python-multipart
+pandas
+openpyxl
+matplotlib
