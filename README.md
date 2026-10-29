@@ -1,4 +1,6 @@
 <img width="1917" height="857" alt="螢幕擷取畫面 2026-10-29 193240" src="https://github.com/user-attachments/assets/fd3de236-0cf2-4f94-be23-5f292510f7c1" />
+<img width="1851" height="867" alt="螢幕擷取畫面 2026-10-29 064533" src="https://github.com/user-attachments/assets/104d0d4c-ab8e-405b-9aa8-69a2de397c3b" />
+
 # Local Autonomous AI Enterprise (本地自主 AI 企業平台)
 
 > **Language / 語言說明**  
@@ -176,6 +178,21 @@ python main.py
 ```
 
 ---
+
+---
+
+## 🗺️ Roadmap & Future Capabilities
+
+We are actively exploring and planning the following capabilities:
+
+- [ ] **Cross-Platform Containerization**: Encapsulate sandboxes within Docker containers to enable universal POSIX/Linux/macOS support.
+- [ ] **Autonomous Web/API Fallback Assistance (Self-Evolution)**:
+  - When Tier 3 escalation fails to resolve complex architectural bugs or strict mathematical assertions locally, the system will autonomously spawn a headless browser / external sandbox session to query external intelligence sources (e.g., Gemini, ChatGPT).
+  - The external reasoning process and debugging steps will be logged into a persistent local knowledge base (RAG/Vector DB) to improve future offline self-healing runs without repeated external queries.
+- [ ] **Dynamic Assertion Relaxer**: Introduce an automated heuristic layer to prevent the Architect agent from setting overly brittle floating-point unit tests.
+- [ ] **Diff-Based Patching**: Move from full-file rewrites to unified diff/patch applications to lower generation latency and memory pressure.
+
+> Have thoughts on the architecture or want to help implement these? Feel free to open an **RFC Issue** or start a discussion!
 
 ### 作者與聯絡方式 (Author & Contact)
 
