@@ -1,3 +1,4 @@
+<img width="1917" height="857" alt="螢幕擷取畫面 2026-10-29 193240" src="https://github.com/user-attachments/assets/fd3de236-0cf2-4f94-be23-5f292510f7c1" />
 # Local Autonomous AI Enterprise (本地自主 AI 企業平台)
 
 > **Language / 語言說明**  
