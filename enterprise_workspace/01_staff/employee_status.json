@@ -1,0 +1,62 @@
+{
+  "EMP-01": {
+    "status": "idle",
+    "task": "-",
+    "action": "待命就緒"
+  },
+  "EMP-02": {
+    "status": "idle",
+    "task": "-",
+    "action": "待命就緒"
+  },
+  "EMP-03": {
+    "status": "idle",
+    "task": "-",
+    "action": "待命就緒"
+  },
+  "EMP-04": {
+    "status": "idle",
+    "task": "-",
+    "action": "待命就緒"
+  },
+  "EMP-05": {
+    "status": "idle",
+    "task": "-",
+    "action": "待命就緒"
+  },
+  "EMP-06": {
+    "status": "idle",
+    "task": "-",
+    "action": "待命就緒"
+  },
+  "EMP-07": {
+    "status": "idle",
+    "task": "-",
+    "action": "待命就緒"
+  },
+  "EMP-08": {
+    "status": "idle",
+    "task": "-",
+    "action": "待命就緒"
+  },
+  "EMP-09": {
+    "status": "idle",
+    "task": "-",
+    "action": "待命就緒"
+  },
+  "EMP-10": {
+    "status": "idle",
+    "task": "-",
+    "action": "待命就緒"
+  },
+  "EMP-11": {
+    "status": "idle",
+    "task": "-",
+    "action": "待命就緒"
+  },
+  "EMP-12": {
+    "status": "idle",
+    "task": "-",
+    "action": "待命就緒"
+  }
+}

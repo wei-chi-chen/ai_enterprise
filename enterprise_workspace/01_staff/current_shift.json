@@ -1,0 +1,7 @@
+{
+  "allocated_memory_gb": 19.0,
+  "loaded_models": [
+    "qwen2.5-coder:32b"
+  ],
+  "max_budget_gb": 32.0
+}
