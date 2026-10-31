@@ -1,8 +1,14 @@
-<img width="1917" height="857" alt="螢幕擷取畫面 2026-10-29 193240" src="https://github.com/user-attachments/assets/fd3de236-0cf2-4f94-be23-5f292510f7c1" />
-<img width="1851" height="867" alt="螢幕擷取畫面 2026-10-29 064533" src="https://github.com/user-attachments/assets/104d0d4c-ab8e-405b-9aa8-69a2de397c3b" />
+> [!NOTE]
+> **繁體中文**：全新進階版本 **[ai_enterprise2](https://github.com/wei-chi-chen/ai_enterprise2)** 現已推出！包含全新架構規劃、多模型並行排程優化與更強的容錯機制，歡迎前往新專案體驗。
+> 
+> **English**: The next-generation version, **[ai_enterprise2](https://github.com/wei-chi-chen/ai_enterprise2)**, is now live! Featuring advanced memory scheduling, autonomous role-based model escalation, and an updated enterprise console. Explore the new repository at [ai_enterprise2](https://github.com/wei-chi-chen/ai_enterprise2).
+<img width="1917" height="867" alt="螢幕擷取畫面 2026-10-31 120256" src="https://github.com/user-attachments/assets/362cde45-c661-4e68-9d78-683638120d23" />
+
+---
 
 # Local Autonomous AI Enterprise (本地自主 AI 企業平台)
-
+<img width="1917" height="857" alt="螢幕擷取畫面 2026-10-29 193240" src="https://github.com/user-attachments/assets/fd3de236-0cf2-4f94-be23-5f292510f7c1" />
+<img width="1851" height="867" alt="螢幕擷取畫面 2026-10-29 064533" src="https://github.com/user-attachments/assets/104d0d4c-ab8e-405b-9aa8-69a2de397c3b" />
 > **Language / 語言說明**  
 > This documentation provides both **Traditional Chinese (繁體中文)** and **English (英文)** guides below.  
 > 本專案說明文件於開頭與各章節均提供繁體中文與英文雙語對照解說，方便全球開源社群共同審閱與協作。
